@@ -1,0 +1,10 @@
+﻿
+<body>
+    <div class="myDiv">
+        @using (Html.BeginForm("Post","Home"))
+        {
+            <textarea name="status" class="myTextBox" id="txtTweet" textmode="MultiLine"></textarea>
+            <input type="submit" class="myButton" value="Tweet" />
+        }
+    </div>
+</body>
