@@ -1,4 +1,4 @@
-﻿
+﻿@model List<WebApplication1.Models.TwitterModels>
 <body>
     <div class="myDiv">
         @using (Html.BeginForm("Post","Home"))
@@ -7,4 +7,37 @@
             <input type="submit" class="myButton" value="Tweet" />
         }
     </div>
+
+    <table class="table">
+        <tr>
+            <th>
+                Text
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Time
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Text)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td>
+
+            </tr>
+        }
+
+    </table>
+
 </body>
