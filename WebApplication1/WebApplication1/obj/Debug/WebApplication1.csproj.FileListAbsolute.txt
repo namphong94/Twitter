@@ -53,3 +53,5 @@ C:\Users\phongpham\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Se
 C:\Users\phongpham\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\phongpham\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\phongpham\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\phongpham\Desktop\WebApplication1\WebApplication1\bin\log4net.dll
+C:\Users\phongpham\Desktop\WebApplication1\WebApplication1\bin\log4net.xml

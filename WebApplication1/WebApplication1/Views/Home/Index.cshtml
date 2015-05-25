@@ -1,10 +1,17 @@
-﻿@model List<WebApplication1.Models.TwitterModels>
+﻿@model List<KMS.TwitterAPI.Models.TwitterModels>
 <body>
     <div class="myDiv">
-        @using (Html.BeginForm("Post","Home"))
+        @using (Html.BeginForm("PostNewFeed", "Home"))
         {
             <textarea name="status" class="myTextBox" id="txtTweet" textmode="MultiLine"></textarea>
             <input type="submit" class="myButton" value="Tweet" />
+        }
+    </div>
+
+    <div class="myDiv">
+        @using (Html.BeginForm("RefreshTimeline", "Home"))
+        {
+            <input type="submit" class="myButton" value="Refresh" />
         }
     </div>
 
