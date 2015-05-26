@@ -7,21 +7,24 @@ namespace KMS.TwitterAPI.Twitter
 {
     public class OAuth
     {
-        public string Oauth_token {get; set;}
-        public string Oauth_token_secret {get; set;}
-        public string Oauth_consumer_key {get; set;}
-        public string Oauth_consumer_secret {get; set;}
-        public string Oauth_version {get; set;}
-        public string Oauth_signature_method {get; set;}
+        readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        public string OauthToken { get; set; }
+        public string OauthTokenSecret { get; set; }
+        public string OauthConsumerKey { get; set; }
+        public string OauthConsumerSecret { get; set; }
+        public string OauthVersion { get; set; }
+        public string OauthSignatureMethod { get; set; }
 
         public OAuth()
         {
-            Oauth_token = ConfigurationManager.AppSettings["oauth_token"];
-            Oauth_token_secret = ConfigurationManager.AppSettings["oauth_token_secret"];
-            Oauth_consumer_key = ConfigurationManager.AppSettings["oauth_consumer_key"];
-            Oauth_consumer_secret = ConfigurationManager.AppSettings["oauth_consumer_secret"];
-            Oauth_version = ConfigurationManager.AppSettings["oauth_version"];
-            Oauth_signature_method = ConfigurationManager.AppSettings["oauth_signature_method"];
+            log.Debug("Load web configuration");
+            OauthToken = ConfigurationManager.AppSettings["OauthToken"];
+            OauthTokenSecret = ConfigurationManager.AppSettings["OauthTokenSecret"];
+            OauthConsumerKey = ConfigurationManager.AppSettings["OauthConsumerKey"];
+            OauthConsumerSecret = ConfigurationManager.AppSettings["OauthConsumerSecret"];
+            OauthVersion = ConfigurationManager.AppSettings["OauthVersion"];
+            OauthSignatureMethod = ConfigurationManager.AppSettings["OauthSignatureMethod"];
+            log.Debug("Done loading web configuration");
         }
     }
 }

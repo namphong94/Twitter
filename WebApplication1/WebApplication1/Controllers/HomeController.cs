@@ -5,22 +5,23 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using KMS.TwitterAPI.Models;
-[assembly: log4net.Config.XmlConfigurator(Watch = true)]
+
 namespace KMS.TwitterAPI.Controllers
 {
     public class HomeController : Controller
     {
-        private static readonly log4net.ILog Logger = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         public ActionResult Index()
         {
             return View(LoadTimeline());
         }
 
-        public ActionResult PostNewFeed (string status)
+        public ActionResult PostNewFeed(string status)
         {
-            TwitterClient test = new TwitterClient();
-            test.PostStatus(status);
-            
+            TwitterClient twitterClient = new TwitterClient();
+            log.Debug("Post status");
+            twitterClient.PostStatus(status);
+            log.Debug("Done post status");
             return RedirectToAction("Index");
         }
 

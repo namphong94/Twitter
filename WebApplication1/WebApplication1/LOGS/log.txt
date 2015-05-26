@@ -1,0 +1,228 @@
+2015-05-26 15:46:11,926 [33] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:46:11,927 [33] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:46:11,929 [33] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:46:11,930 [33] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:46:11,931 [33] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:46:11,932 [33] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:46:11,934 [33] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:46:11,935 [33] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:46:11,936 [33] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:46:11,938 [33] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:46:12,425 [33] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:46:12,934 [33] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:46:19,290 [38] DEBUG KMS.TwitterAPI.Controllers.HomeController Post status
+2015-05-26 15:46:19,293 [38] DEBUG KMS.TwitterAPI.TwitterClient Post status
+2015-05-26 15:46:19,295 [38] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:46:19,297 [38] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:46:19,298 [38] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:46:19,300 [38] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:46:19,301 [38] DEBUG KMS.TwitterAPI.TwitterClient Create Post OAuthSignature
+2015-05-26 15:46:19,303 [38] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:46:19,305 [38] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:46:19,307 [38] DEBUG KMS.TwitterAPI.TwitterClient Done creating Post OAuthSignature
+2015-05-26 15:46:19,308 [38] DEBUG KMS.TwitterAPI.TwitterClient Make Post Status Request
+2015-05-26 15:46:19,733 [38] DEBUG KMS.TwitterAPI.TwitterClient Done making Post OAuthSignature
+2015-05-26 15:46:19,740 [38] DEBUG KMS.TwitterAPI.TwitterClient  Done Posting status
+2015-05-26 15:46:19,746 [38] DEBUG KMS.TwitterAPI.Controllers.HomeController Done post status
+2015-05-26 15:46:19,762 [42] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:46:19,767 [42] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:46:19,772 [42] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:46:19,775 [42] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:46:19,779 [42] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:46:19,783 [42] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:46:19,788 [42] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:46:19,793 [42] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:46:19,796 [42] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:46:19,798 [42] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:46:20,237 [42] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:48:18,406 [7] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:48:18,415 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:48:18,418 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:48:18,421 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:18,423 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:18,427 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:48:18,429 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:18,432 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:18,434 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:48:18,437 [7] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:48:19,219 [7] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:48:19,739 [7] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:48:31,365 [7] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:48:31,374 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:48:31,376 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:48:31,379 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:31,382 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:31,385 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:48:31,387 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:31,390 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:31,392 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:48:31,396 [7] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:48:32,074 [7] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:48:32,417 [7] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:48:44,769 [10] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:48:44,772 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:48:44,774 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:48:44,776 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:44,779 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:44,782 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:48:44,785 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:44,787 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:44,790 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:48:44,792 [10] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:48:45,213 [10] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:48:45,637 [10] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:48:48,479 [10] DEBUG KMS.TwitterAPI.Controllers.HomeController Post status
+2015-05-26 15:48:48,482 [10] DEBUG KMS.TwitterAPI.TwitterClient Post status
+2015-05-26 15:48:48,485 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:48:48,487 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:48:48,491 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:48,494 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:48,496 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Post OAuthSignature
+2015-05-26 15:48:48,499 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:48,501 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:48,504 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Post OAuthSignature
+2015-05-26 15:48:48,506 [10] DEBUG KMS.TwitterAPI.TwitterClient Make Post Status Request
+2015-05-26 15:48:48,762 [10] ERROR KMS.TwitterAPI.TwitterClient System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at KMS.TwitterAPI.TwitterClient.MakePostStatusRequest(String status, String resourceURL, String authHeader) in c:\Users\phongpham\Desktop\test 1\WebApplication1\Twitter\TwitterClient.cs:line 116
+2015-05-26 15:48:48,787 [10] DEBUG KMS.TwitterAPI.TwitterClient Done making Post OAuthSignature
+2015-05-26 15:48:48,797 [10] DEBUG KMS.TwitterAPI.TwitterClient  Done Posting status
+2015-05-26 15:48:48,805 [10] DEBUG KMS.TwitterAPI.Controllers.HomeController Done post status
+2015-05-26 15:48:48,817 [11] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:48:48,823 [11] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:48:48,830 [11] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:48:48,836 [11] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:48,840 [11] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:48,844 [11] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:48:48,848 [11] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:48,853 [11] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:48,857 [11] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:48:48,860 [11] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:48:49,142 [11] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:48:49,672 [11] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:48:52,483 [7] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:48:52,486 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:48:52,489 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:48:52,491 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:52,494 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:52,496 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:48:52,499 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:48:52,502 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:48:52,505 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:48:52,507 [7] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:48:52,769 [7] ERROR KMS.TwitterAPI.TwitterClient System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at KMS.TwitterAPI.TwitterClient.MakeGetStatusRequest(String screenName, String resourceURL, String authHeader) in c:\Users\phongpham\Desktop\test 1\WebApplication1\Twitter\TwitterClient.cs:line 137
+2015-05-26 15:48:52,780 [7] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:49:36,576 [7] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:49:36,585 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:49:36,589 [7] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:49:36,592 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:49:36,595 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:49:36,599 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:49:36,602 [7] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:49:36,605 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:49:36,607 [7] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:49:39,390 [7] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:49:46,045 [7] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:49:48,377 [7] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:50:33,744 [12] DEBUG KMS.TwitterAPI.Controllers.HomeController Post status
+2015-05-26 15:50:33,748 [12] DEBUG KMS.TwitterAPI.TwitterClient Post status
+2015-05-26 15:50:33,751 [12] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:50:33,754 [12] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:50:33,756 [12] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:50:33,759 [12] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:50:33,764 [12] DEBUG KMS.TwitterAPI.TwitterClient Create Post OAuthSignature
+2015-05-26 15:50:33,766 [12] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:50:33,769 [12] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:50:33,771 [12] DEBUG KMS.TwitterAPI.TwitterClient Done creating Post OAuthSignature
+2015-05-26 15:50:33,774 [12] DEBUG KMS.TwitterAPI.TwitterClient Make Post Status Request
+2015-05-26 15:50:34,101 [12] DEBUG KMS.TwitterAPI.TwitterClient Done making Post OAuthSignature
+2015-05-26 15:50:34,104 [12] DEBUG KMS.TwitterAPI.TwitterClient  Done Posting status
+2015-05-26 15:50:34,107 [12] DEBUG KMS.TwitterAPI.Controllers.HomeController Done post status
+2015-05-26 15:50:34,117 [9] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:50:34,121 [9] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:50:34,124 [9] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:50:34,127 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:50:34,130 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:50:34,133 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:50:34,136 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:50:34,139 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:50:34,142 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:50:35,637 [9] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:50:47,195 [9] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:51:01,796 [9] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:52:14,188 [6] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:52:14,197 [6] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:52:14,200 [6] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:52:14,202 [6] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:14,205 [6] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:14,208 [6] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:52:14,211 [6] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:14,214 [6] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:14,217 [6] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:52:14,220 [6] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:52:14,949 [6] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:52:15,374 [6] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:52:18,449 [9] DEBUG KMS.TwitterAPI.Controllers.HomeController Post status
+2015-05-26 15:52:18,453 [9] DEBUG KMS.TwitterAPI.TwitterClient Post status
+2015-05-26 15:52:18,455 [9] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:52:18,458 [9] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:52:18,462 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:18,465 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:18,468 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Post OAuthSignature
+2015-05-26 15:52:18,470 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:18,473 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:18,476 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Post OAuthSignature
+2015-05-26 15:52:18,479 [9] DEBUG KMS.TwitterAPI.TwitterClient Make Post Status Request
+2015-05-26 15:52:18,776 [9] DEBUG KMS.TwitterAPI.TwitterClient Done making Post OAuthSignature
+2015-05-26 15:52:18,788 [9] DEBUG KMS.TwitterAPI.TwitterClient  Done Posting status
+2015-05-26 15:52:18,799 [9] DEBUG KMS.TwitterAPI.Controllers.HomeController Done post status
+2015-05-26 15:52:18,819 [6] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:52:18,826 [6] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:52:18,832 [6] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:52:18,836 [6] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:18,839 [6] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:18,843 [6] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:52:18,847 [6] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:18,850 [6] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:18,853 [6] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:52:18,857 [6] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:52:19,410 [6] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:52:19,757 [6] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:52:21,130 [10] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:52:21,133 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:52:21,136 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:52:21,139 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:21,142 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:21,145 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:52:21,148 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:21,151 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:21,154 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:52:21,156 [10] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:52:21,612 [10] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:52:22,314 [10] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:52:24,666 [9] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:52:24,669 [9] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:52:24,672 [9] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:52:24,675 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:24,678 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:24,681 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:52:24,684 [9] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:24,687 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:24,690 [9] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:52:24,692 [9] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:52:25,305 [9] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:52:25,747 [9] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status
+2015-05-26 15:52:58,025 [10] DEBUG KMS.TwitterAPI.TwitterClient Get status
+2015-05-26 15:52:58,028 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Load web configuration
+2015-05-26 15:52:58,031 [10] DEBUG KMS.TwitterAPI.Twitter.OAuth Done loading web configuration
+2015-05-26 15:52:58,034 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:58,037 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:58,040 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Get OAuthSignature
+2015-05-26 15:52:58,043 [10] DEBUG KMS.TwitterAPI.TwitterClient Create Timestamp
+2015-05-26 15:52:58,045 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Timestamp
+2015-05-26 15:52:58,048 [10] DEBUG KMS.TwitterAPI.TwitterClient Done creating Get OAuthSignature
+2015-05-26 15:52:58,051 [10] DEBUG KMS.TwitterAPI.TwitterClient Make Get stattus request
+2015-05-26 15:52:58,337 [10] DEBUG KMS.TwitterAPI.TwitterClient Done make Get stattus request
+2015-05-26 15:52:58,773 [10] DEBUG KMS.TwitterAPI.TwitterClient Done Getting status

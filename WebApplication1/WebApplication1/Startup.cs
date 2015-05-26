@@ -8,7 +8,7 @@ namespace KMS.TwitterAPI
     {
         public void Configuration(IAppBuilder app)
         {
-            ConfigureAuth(app);
+            
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿@model List<KMS.TwitterAPI.Models.TwitterModels>
+
 <body>
     <div class="myDiv">
         @using (Html.BeginForm("PostNewFeed", "Home"))
@@ -18,10 +19,10 @@
     <table class="table">
         <tr>
             <th>
-                Text
+                Name
             </th>
             <th>
-                Name
+                Text
             </th>
             <th>
                 Time
@@ -33,10 +34,10 @@
         {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Text)
+                    @Html.DisplayFor(modelItem => item.Name)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Name)
+                    @Html.DisplayFor(modelItem => item.Text)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Time)
